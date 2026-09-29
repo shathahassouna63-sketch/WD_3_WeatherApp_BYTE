@@ -55,9 +55,5 @@ Example response received from the OpenWeather API:
   }
 }
 
-## Screenshots
 
-<img width="1732" height="822" alt="Screenshot 2026-09-29 133328" src="https://github.com/user-attachments/assets/d35fbf6f-e391-4f48-b27d-41cc71cefe33" />
-<img width="1132" height="847" alt="Screenshot 2026-09-29 133355" src="https://github.com/user-attachments/assets/4e581d53-bc1f-445e-a2f8-997762987e1b" />
-<img width="968" height="430" alt="Screenshot 2026-09-29 133415" src="https://github.com/user-attachments/assets/8f3aef02-2833-451d-a2c6-7e7d13c99db1" />
 
