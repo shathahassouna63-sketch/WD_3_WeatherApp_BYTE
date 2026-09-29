@@ -55,5 +55,5 @@ Example response received from the OpenWeather API:
   }
 }
 
-
+## Screenshots
 
