@@ -56,4 +56,7 @@ Example response received from the OpenWeather API:
 }
 
 ## Screenshots
+Screenshot 2026-09-29 133328
+Screenshot 2026-09-29 133355
+Screenshot 2026-09-29 133415
 
