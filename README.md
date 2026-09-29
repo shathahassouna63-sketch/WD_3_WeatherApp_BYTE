@@ -54,3 +54,14 @@ Example response received from the OpenWeather API:
     "country": "LB"
   }
 }
+
+## Screenshots
+
+### Start Screen
+![Weather App Start Screen](Screenshot%202026-09-29%20133328.png)
+
+### Weather Result - Tyr
+![Weather App - Tyr](Screenshot%202026-09-29%20133355.png)
+
+### Invalid City
+![Invalid City](Screenshot%202026-09-29%20133415.png)
